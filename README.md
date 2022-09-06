@@ -1,13 +1,13 @@
-                  Hello, I'm Paul 👋🏽
+Hello, I'm Paul 👋🏽
 
-                                                               LinedIn: 
-                                                               Instagram: 
+LinedIn: 
+Instagram: 
 
-                                                               Main Stack 
-                                                              <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+Main Stack 
+JAVA
 
-                                                               Tools
-                                                               Eclipse, Git
+Tools
+Eclipse, Git
 <!--
 **grandbird2012/grandbird2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
