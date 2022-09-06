@@ -1,5 +1,13 @@
-### Hi there 👋
+                  Hello, I'm Paul 👋🏽
 
+                                                               LinedIn: 
+                                                               Instagram: 
+
+                                                               Main Stack 
+                                                               <img src="https://img.shields.io/badge/blueviolet?style=flat-square&logo=#2C2255&logoColor=white"/></a>&nbsp 
+
+                                                               Tools
+                                                               Eclipse, Git
 <!--
 **grandbird2012/grandbird2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
