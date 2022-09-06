@@ -4,7 +4,7 @@
                                                                Instagram: 
 
                                                                Main Stack 
-                                                               <img src="https://img.shields.io/badge/blueviolet?style=flat-square&logo=#2C2255&logoColor=white"/></a>&nbsp 
+                                                              <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
                                                                Tools
                                                                Eclipse, Git
